@@ -1,0 +1,10 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+cmpt201        1  0.0  0.0  14704  7148 pts/0    Ss   Sep21   0:10 zsh --login
+cmpt201    20706  0.0  0.0   9660  3348 pts/0    T    Sep24   0:00 bash /home/cmpt201/.local/bin/cmpt-nvim parent-kid.c
+cmpt201    20709  0.0  0.0  14536  3400 pts/0    T    Sep24   0:00 zsh --login
+cmpt201    49136  0.0  0.0  14476  6876 pts/2    Ss   08:31   0:02 zsh --login
+cmpt201    53888  0.0  0.3 1277852 31600 pts/0   Sl+  10:29   0:01 glow -p README.md
+cmpt201    53898  0.0  0.0   8472  2648 pts/0    S+   10:29   0:00 less
+cmpt201    65797 62.5  0.0   2800  1812 pts/2    S+   22:24   0:00 /home/cmpt201/.local/bin/record
+cmpt201    65798 50.0  0.2 108976 22304 pts/2    S+   22:24   0:00 /home/cmpt201/.local/bin/record
+cmpt201    65801  0.0  0.0  13232  4112 pts/2    R+   22:24   0:00 ps aux
